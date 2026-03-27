@@ -9,6 +9,7 @@ This repository showcases a complete, end-to-end data solution—bridging the ga
 ---
 
 Data Architecture
+
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
 <img width="584" height="326" alt="Screenshot 2026-03-27 150027" src="https://github.com/user-attachments/assets/127b189d-cf97-4db9-9ac3-6074ee81533d" />
@@ -20,8 +21,11 @@ Gold Layer: Houses business-ready data modeled into a star schema required for r
 
 ---
  Project Requirements
+ 
 Building the Data Warehouse (Data Engineering)
+
 Objective
+
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 Specifications
@@ -31,7 +35,9 @@ Integration: Combine both sources into a single, user-friendly data model design
 Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 BI: Analytics & Reporting (Data Analysis)
+
 Objective
+
 Develop SQL-based analytics to deliver detailed insights into:
 
 Customer Behavior
@@ -41,6 +47,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 Project Overview
+
 This project involves:
 
 Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
