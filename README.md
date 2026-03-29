@@ -1,4 +1,4 @@
-# sql_datawarehouse_ETL_project
+# sql_ETL_project
 
 Goal - Build a modern data warehouse with mySQL, including ETL processes, data modelling and analytics.
 
