@@ -1,5 +1,5 @@
 
-# sql_ETL_project
+# Medallion Data Architecture ETL pipeline Project 
 
 
 Goal - Build a modern data warehouse with mySQL, including ETL processes, data modelling and analytics.
